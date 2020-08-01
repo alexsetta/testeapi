@@ -2,4 +2,7 @@
   "id":1,
   "title": "Teste 1",
   "value": "16.5"
+  "main": {
+    "temp": 292.15
+  }
 }
